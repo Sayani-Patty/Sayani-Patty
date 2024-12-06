@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayani Patty</h1>
 <h3 align="center">Data Science | Python Developer | Tech Enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src = "https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayani-patty&label=Profile%20views&color=0e75b6&style=flat" alt="sayani-patty" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sayani-patty&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/search?sca_esv=360d606574466e04&rlz=1C1RXQR_enIN1134IN1134&sxsrf=ADLYWIJ0QYU3I4ihLf0FDgeZtfM5NdlK5Q:1733502254830&q=animated+coding+gif+girl&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J7pRxUp2pI1mXV9fBsfh39LpAWJ-Nb3mi2m4EiVUszBibUgYBXGmUct3yVHr_9JSnE288fo6RrD78oXAmOKgB50q3R9TnL6GiT-TSc4e50gY12NCMPCqq1khedYIKxEeV2qq9hPSLEOebufY8kQJKNoKafpkMpjAihYoouDfUWxmeoLDTg&sa=X&ved=2ahUKEwjm__aQx5OKAxXfc_UHHfnzINkQtKgLegQIFBAB&biw=1536&bih=730&dpr=1.25#vhid=bCZuC2mWae0DVM&vssid=mosaic)" alt="sayani-patty" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sayani-Patty](https://github.com/Sayani-Patty)
 
